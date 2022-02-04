@@ -1,0 +1,16 @@
+/* style.css */
+
+.pagetitle {
+    color: green;
+    font-family: "Verdana", "Geneva", "Tahoma", sans-serif;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.recipelist {
+    text-align: center;
+    font-weight: bold;
+    font-family: "Verdana", "Geneva", "Tahoma", sans-serif;
+    font-size: 20px;
+
+}
